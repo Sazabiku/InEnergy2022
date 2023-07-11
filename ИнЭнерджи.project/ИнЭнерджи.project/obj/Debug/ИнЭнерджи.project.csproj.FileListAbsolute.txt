@@ -1,0 +1,15 @@
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\bin\Debug\ИнЭнерджи.project.exe.config
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\bin\Debug\ИнЭнерджи.project.exe
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\bin\Debug\ИнЭнерджи.project.pdb
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.csprojAssemblyReference.cache
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.Form1.resources
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.Form2.resources
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.Form3.resources
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.Properties.Resources.resources
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.csproj.GenerateResource.cache
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.csproj.CoreCompileInputs.cache
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.exe
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.pdb
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.Form4.resources
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.Form5.resources
+F:\Users\Gregory\source\repos\ИнЭнерджи.project\ИнЭнерджи.project\obj\Debug\ИнЭнерджи.project.Form6.resources
